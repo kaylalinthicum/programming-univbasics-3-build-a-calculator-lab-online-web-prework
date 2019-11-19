@@ -15,14 +15,9 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  num1 = "34"
-  num2 = "5"
-  result = num1 % num2 
-  puts "#{result}"
+  modulo = (num1 % num2)
 end
 
 def square_root(num)
-  num = "81"
-  answer = Math.sqrt("num")
-  puts "#{answer}"
+  square_root = ()
 end
